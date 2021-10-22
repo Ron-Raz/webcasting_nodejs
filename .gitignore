@@ -1,3 +1,13 @@
+#configs
+config-*.json
+
+# generated htmls
+html/entry.html
+html/view.html
+
+# favicon
+favicon.ico
+
 # Logs
 logs
 *.log
