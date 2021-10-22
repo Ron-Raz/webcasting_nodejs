@@ -1,0 +1,23 @@
+{
+    "partner_id": 123456,
+    "admin_secret": "secrethere",
+    "admin_email": "user@email.com",
+    "service_url": "https://www.kaltura.com/",
+
+    "use_v2_player": true,
+    "uiconf_id": 123456,
+    "uiconf_idv2": 123456,
+
+    "win_uiconf_id": 123456,
+    "mac_uiconf_id": 123456,
+
+    "viewer_user_id": "user@email.com",
+    "broadcaster_user": "user@email.com",
+    "broadcaster_display_name": "user@email.com",
+    "moderator_user": "user@email.com",
+
+    "app_name": "Webcasting Application",
+    "app_id": "myCustomWebcastApp",
+    "app_domain": "my.customwebcast.com",
+    "logo_url": "http://mylogoUrl"
+}
